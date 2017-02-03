@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/14 11:15:40.957.cpp,C:\Users\Ian\Documents\RAD Studio\Projects\Unit1.cpp=C:\myPrograms\bcb2010_cv2.1_baseProject\Unit1.cpp</Transaction>
+    <Transaction>2012/02/14 11:15:40.957.h,C:\Users\Ian\Documents\RAD Studio\Projects\Unit1.h=C:\myPrograms\bcb2010_cv2.1_baseProject\Unit1.h</Transaction>
+    <Transaction>2012/02/14 11:15:40.957.dfm,C:\Users\Ian\Documents\RAD Studio\Projects\Unit1.dfm=C:\myPrograms\bcb2010_cv2.1_baseProject\Unit1.dfm</Transaction>
+    <Transaction>2012/02/14 11:15:41.812.cbproj,C:\Users\Ian\Documents\RAD Studio\Projects\Project1.cbproj=C:\myPrograms\bcb2010_cv2.1_baseProject\Project1.cbproj</Transaction>
+    <Transaction>2012/02/14 11:40:00.487.lib,C:\myTools\opencv\opencv2bcb_2.10\lib\cv210d.lib=</Transaction>
+    <Transaction>2012/02/14 11:40:00.519.lib,C:\myTools\opencv\opencv2bcb_2.10\lib\cvaux210d.lib=</Transaction>
+    <Transaction>2012/02/14 11:40:00.525.lib,C:\myTools\opencv\opencv2bcb_2.10\lib\cxcore210d.lib=</Transaction>
+    <Transaction>2012/02/14 11:40:00.527.lib,C:\myTools\opencv\opencv2bcb_2.10\lib\highgui210d.lib=</Transaction>
+    <Transaction>2012/02/14 11:40:00.528.lib,C:\myTools\opencv\opencv2bcb_2.10\lib\ml210d.lib=</Transaction>
+    <Transaction>2012/02/14 11:40:00.529.lib,C:\myTools\opencv\opencv2bcb_2.10\lib\opencv_ffmpeg210d.lib=</Transaction>
+    <Transaction>2013/03/21 10:45:01.861.cpp,C:\Users\Ronnie\Desktop\101summer\projects\bcb2010_cv2.1_baseProject_0504\Unit2.cpp=C:\Users\Ronnie\Desktop\101summer\projects\bcb2010_cv2.1_baseProject_0504\MyParticle.cpp</Transaction>
+    <Transaction>2013/03/21 10:45:01.861.h,C:\Users\Ronnie\Desktop\101summer\projects\bcb2010_cv2.1_baseProject_0504\Unit2.h=C:\Users\Ronnie\Desktop\101summer\projects\bcb2010_cv2.1_baseProject_0504\MyParticle.h</Transaction>
+    <Transaction>2014/05/01 13:38:05.612.cpp,D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140423\Unit2.cpp=D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140423\MyMath.cpp</Transaction>
+    <Transaction>2014/05/01 13:38:05.627.h,D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140423\Unit2.h=D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140423\MyMath.h</Transaction>
+    <Transaction>2014/05/29 16:41:12.695.cpp,D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140505\Unit2.cpp=D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140505\MyWhitening.cpp</Transaction>
+    <Transaction>2014/05/29 16:41:12.718.h,D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140505\Unit2.h=D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140505\MyWhitening.h</Transaction>
+    <Transaction>2014/06/17 17:10:40.148.cpp,D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140530\Unit2.cpp=D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140530\MyFunction.cpp</Transaction>
+    <Transaction>2014/06/17 17:10:40.148.h,D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140530\Unit2.h=D:\myProjects\102\projects\bcb2010_cv2.1_baseProject_20140530\MyFunction.h</Transaction>
+  </Transactions>
+</BorlandProject>
