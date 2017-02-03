@@ -24,6 +24,7 @@ part2 initial, part3 新增whitening轉換;
 需處理trDim問題 (目前沒用到trDim)
 
 修正Whitening的transMat大小:
+
 	______________________________________________
 
 		if(isWhitening == true){
